@@ -1,4 +1,8 @@
-## Hi there 👋
+## Bioinformatics Data Scientist turned generalist; helping humans and AI connect with data.
+
+<!-- 
+Hi! I got my PhD in Computer Science and Engineering from UConn in December 2025. I 
+-->
 
 <!--
 **rhowardstone/rhowardstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
