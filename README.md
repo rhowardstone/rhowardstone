@@ -12,7 +12,7 @@ I build AI-assisted data systems for large, messy, high-stakes datasets, then tu
 I scaffold AI agents the way you'd onboard a new hire: they work in Git, write findings up as reports, and pass a peer-review check before the output reaches me. [claude-code-scientist](https://github.com/rhowardstone/claude-code-scientist) shows one example of this setup — staged skills, validation hooks, and an automated review pass.
 
 ## Selected links
-Resume · [LinkedIn](https://www.linkedin.com/in/rye-howard-stone-23aa64142/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=DfJonAwAAAAJ) · [ORCID](https://orcid.org/0009-0005-7518-1867)
+[Resume](https://github.com/rhowardstone/rhowardstone/blob/main/Resume.pdf/) · [LinkedIn](https://www.linkedin.com/in/rye-howard-stone-23aa64142/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=DfJonAwAAAAJ) · [ORCID](https://orcid.org/0009-0005-7518-1867)
 
 ## Websites
 [AmpliconHunter1](https://ah1.engr.uconn.edu/) · [AmpliconHunter2](https://ah2.engr.uconn.edu/) · [Epstein-data.com](https://epstein-data.com/) · [CaseStack](https://casestack.netlify.app/) · [OrganoidProtocolAtlas](https://organoid-protocol-atlas.onrender.com/)
