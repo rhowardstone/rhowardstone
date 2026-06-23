@@ -1,4 +1,4 @@
-# Rye Howard-Stone
+# [Rye Howard-Stone](https://ryehowardstone.com/)
 
 I build AI-assisted data systems for large, messy, high-stakes datasets, then turn the results into usable software, analysis, and plain-English insight.
 
@@ -14,6 +14,8 @@ I scaffold AI agents the way you'd onboard a new hire: they work in Git, write f
 ## Selected links
 [Resume](https://github.com/rhowardstone/rhowardstone/blob/main/Resume.pdf/) · [LinkedIn](https://www.linkedin.com/in/rye-howard-stone-23aa64142/) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=DfJonAwAAAAJ) · [ORCID](https://orcid.org/0009-0005-7518-1867)
 
-## Websites
+## Website: [ryehowardstone.com](https://ryehowardstone.com/)
+
+## Projects: https://ryehowardstone.com/
 [AmpliconHunter1](https://ah1.engr.uconn.edu/) · [AmpliconHunter2](https://ah2.engr.uconn.edu/) · [Epstein-data.com](https://epstein-data.com/) · [CaseStack](https://casestack.netlify.app/) · [OrganoidProtocolAtlas](https://organoid-protocol-atlas.onrender.com/)
 
