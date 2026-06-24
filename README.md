@@ -5,7 +5,7 @@ I build AI-assisted data systems for large, messy, high-stakes datasets, then tu
 ## What I build
 - Evidence databases for massive document dumps — [CaseStack](https://github.com/rhowardstone/casestack), an engine that turns any document dump into a quarriable evidence database. Its proof-of-concept deployment over [1.38M DOJ documents](https://epstein-data.com/) draws ~15K daily users, and its results have been used by reporters at major and independent outlets. Data exports: [Epstein-research-data](https://github.com/rhowardstone/Epstein-research-data)
 - Scientific extraction pipelines with provenance — [Organoid Protocol Atlas](https://github.com/rhowardstone/organoid-protocol-atlas), an ongoing effort, is an interface grown from a curated set of academic literature on organoid culture protocols.
-- Bioinformatics tools and high-performance search — [AmpliconHunter2](https://github.com/rhowardstone/AmpliconHunter2), a SIMD-accelerated in silico PCR engine, 5.9× faster than the original (ICCABS 2026)
+- Bioinformatics tools and high-performance search — [AmpliconHunter2](https://github.com/rhowardstone/AmpliconHunter2), a SIMD-accelerated in silico PCR engine, 5.9× faster than the original ([ICCABS 2026](https://arxiv.org/abs/2511.00170))
 - AI-agent workflows for research and software engineering — [claude-code-scientist](https://github.com/rhowardstone/claude-code-scientist), a 24-skill semi-autonomous research agent with validation hooks and provenance tracking for academic literature acquisition, data acquisition, computational experimentation, synthesis, and peer review. "Self-improving": includes /cortex, which audits prior sessions, diagnoses issues, and generates fixes.
 
 ## How I use AI
